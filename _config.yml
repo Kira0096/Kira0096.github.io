@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xingjun Ma"
+title                    : "Yan Feng"
 title_separator          : "-"
-name                     : &name "Xingjun Ma"
+name                     : &name "Yan Feng"
 description              : &description "personal description"
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "Kira0096.github.io" # the subpath of your site, e.g. "/blog"
