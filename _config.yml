@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yan Feng"
+title                    : "Xingjun Ma"
 title_separator          : "-"
-name                     : &name "Yan Feng"
+name                     : &name "Xingjun Ma"
 description              : &description "personal description"
-url                      : Kira0096.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yan Feng"
+  name             : "Xingjun Ma"
   avatar           : "profile.jpg"
-  bio              : "Master Student@Tsinghua University"
-  location         : 
+  bio              : "Research Fellow@University of Melbourne"
+  location         : "Melbourne, Australia"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=m4f3F4cAAAAJ"
-  email            : "y-feng18@mails.tsinghua.edu.cn"
+  googlescholar    : "http://scholar.google.com.au/citations?user=XQViiyYAAAAJ&hl=en"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -98,14 +98,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : 
+  linkedin         : "daniel-xingjun-ma/"
   orcid            : "https://orcid.org/0000-0003-2099-4973"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "XingjunMa"
   vine             :
   weibo            :
   xing             :
@@ -250,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Melbourne # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
