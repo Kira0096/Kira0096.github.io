@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xingjun (Daniel) Ma"
+title: "Yan Feng"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
