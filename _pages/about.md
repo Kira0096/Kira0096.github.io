@@ -10,6 +10,7 @@ redirect_from:
 
 I am a second-year Master student in the Department of Computer Science and Technology, Tsinghua University, China, graduating in 2021. My supervisor is Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=koAXTXgAAAAJ" target="_blank">Shu-Tao Xia</a>. My general research interests cover Computer Vision and Machine Learning. Before that, I received the B.S. in Computer Science from Beihang University in 2018, advised by Professor <a href="http://irip.buaa.edu.cn/dihuang/" target="_blank">Di Huang</a>. I also worked with <a href="https://wuwei-ai.org/" target="_blank">Wei Wu</a> at <a href="https://www.sensetime.com/en/" target="_blank">SenseTime</a> in 2017.
 
+I am actively looking for 2020 summer research intern positions!
 
 <!-- I am a research fellow at the School of Computing and Information Systems, The University of Melbourne, where I obtained my PhD in 2019. I work closely with <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>. Prior to my PhD, I recieved my M.Eng. and B.Eng. from Tsinghua University and Jilin University successively. I have a broad interest in theory and applications of machine learning and deep learning.  -->
 
@@ -27,20 +28,21 @@ I am a second-year Master student in the Department of Computer Science and Tech
 
 ### Publications:
 
-<a href="https://arxiv.org/abs/1908.06112" target="_blank">
-Symmetric Cross Entropy for Robust Learning with Noisy Labels</a><br/>
-Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Zaiyi Chen, Yuan Luo, Jinfeng Yi, James Bailey<br/>
+<a href="" target="_blank">
+Adversarial Attack on Deep Product Quantization Network for Image Retrieval </a><br/>
+**Yan Feng**<sup>*</sup>, Bin Chen<sup>*</sup>, Tao Dai, Shu-Tao Xia<br/>
+AAAI Conference on Artificial Intelligence (**AAAI**), 2020.
+
+<a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Bai_Hilbert-Based_Generative_Defense_for_Adversarial_Examples_ICCV_2019_paper.pdf" target="_blank">
+Hilbert-Based Generative Defense for Adversarial Examples</a><br/>
+Yang Bai<sup>*</sup>, **Yan Feng**<sup>*</sup>, Yisen Wang, Tao Dai, Shu-Tao Xia, Yong Jiang<br/>
 International Conference on Computer Vision (**ICCV**), 2019.
 
-<a href="http://proceedings.mlr.press/v97/wang19i/wang19i.pdf" target="_blank">
-On the Convergence and Robustness of Adversarial Training</a><br/>
-Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu<br/>
-International Conference on Machine Learning (**ICML**), 2019, **long talk**.
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8784837" target="_blank">
+Attentiondrop for Convolutional Neural Networks</a><br/>
+Zhihao Ouyang<sup>*</sup>, **Yan Feng**<sup>*</sup>, Zihao He, Tianbo Hao, Tao Dai, Shu-Tao Xia<br/>
+IEEE International Conference on Multimedia and Expo (**ICME**), 2019.
 
-<a href="https://arxiv.org/abs/1904.05181" target="_blank">
-Black-box Adversarial Attacks on Video Recognition Models</a><br/>
-Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang<br/>
-ACM International Conference on Multimedia (**MM**), 2019.
 
 <!-- ### Research Interests:
 * Machine Learning
