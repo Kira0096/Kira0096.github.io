@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Master student in the Department of Computer Science and Technology, Tsinghua University, China, graduating in 2021. My supervisor is Prof. Shutao Xia. Before that, I received the Bachelor of Computer Science from Beihang University in 2014. My research interest is in adversarial machine learning.
+I am a second-year Master student in the Department of Computer Science and Technology, Tsinghua University, China, graduating in 2021. My supervisor is Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=koAXTXgAAAAJ" target="_blank">Shu-Tao Xia</a>. My general research interests cover Computer Vision and Machine Learning. Before that, I received the B.S. in Computer Science from Beihang University in 2018, advised by Professor <a href="http://irip.buaa.edu.cn/dihuang/" target="_blank">Di Huang</a>. I also worked with <a href="https://wuwei-ai.org/" target="_blank">Wei Wu</a> at <a href="https://www.sensetime.com/en/" target="_blank">SenseTime</a> in 2017.
 
 
 <!-- I am a research fellow at the School of Computing and Information Systems, The University of Melbourne, where I obtained my PhD in 2019. I work closely with <a href="http://people.eng.unimelb.edu.au/baileyj/" target="_blank">Prof. James Bailey</a>. Prior to my PhD, I recieved my M.Eng. and B.Eng. from Tsinghua University and Jilin University successively. I have a broad interest in theory and applications of machine learning and deep learning.  -->
