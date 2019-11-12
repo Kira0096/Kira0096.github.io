@@ -23,7 +23,7 @@ I am actively looking for 2020 summer research intern positions!
 ### News:
   * 11/2019: One paper is accepted at AAAI 2020.
   * 10/2019: Research Intern at Tencent AI lab, working with <a href="https://sites.google.com/site/baoyuanwu2015/home" target="_blank">Baoyuan Wu</a>.
-  * 09/2019: One paper is accepted at ICCV 2019.
+  * 08/2019: One paper is accepted at ICCV 2019.
 
 
 ### Publications:
