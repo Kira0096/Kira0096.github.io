@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Master student in the Department of Computer Science and Technology, Tsinghua University, China, graduating in 2021. My supervisor is Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=koAXTXgAAAAJ" target="_blank">Shu-Tao Xia</a>. My general research interests cover Computer Vision and Machine Learning. I received the B.S. in Computer Science from Beihang University in 2018, advised by Professor <a href="http://irip.buaa.edu.cn/dihuang/" target="_blank">Di Huang</a>. I also worked with <a href="https://wuwei-ai.org/" target="_blank">Wei Wu</a> at <a href="https://www.sensetime.com/en/" target="_blank">SenseTime</a> in 2017.
+I am a second-year Master student in the Department of Computer Science and Technology, Tsinghua University, China, graduating in 2021. My supervisor is Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=koAXTXgAAAAJ" target="_blank">Shu-Tao Xia</a>. My research interests generally includes Computer Vision and Adversarial Machine Learning. I received the B.S. in Computer Science from Beihang University in 2018, advised by Professor <a href="http://irip.buaa.edu.cn/dihuang/" target="_blank">Di Huang</a>. I also worked with <a href="https://wuwei-ai.org/" target="_blank">Wei Wu</a> at <a href="https://www.sensetime.com/en/" target="_blank">SenseTime</a> in 2017.
 
 I am actively looking for 2020 summer research intern positions!
 
