@@ -26,9 +26,21 @@ I am a second-year Master student in the Department of Computer Science and Tech
 
 
 ### Publications:
-  * 11/2019: One paper is accepted at AAAI 2020.
-  * 10/2019: Research Intern at Tencent AI lab, working with <a href="https://sites.google.com/site/baoyuanwu2015/home" target="_blank">Baoyuan Wu</a>.
-  * 09/2019: One paper is accepted at ICCV 2019.
+
+<a href="https://arxiv.org/abs/1908.06112" target="_blank">
+Symmetric Cross Entropy for Robust Learning with Noisy Labels</a><br/>
+Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Zaiyi Chen, Yuan Luo, Jinfeng Yi, James Bailey<br/>
+International Conference on Computer Vision (**ICCV**), 2019.
+
+<a href="http://proceedings.mlr.press/v97/wang19i/wang19i.pdf" target="_blank">
+On the Convergence and Robustness of Adversarial Training</a><br/>
+Yisen Wang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu<br/>
+International Conference on Machine Learning (**ICML**), 2019, **long talk**.
+
+<a href="https://arxiv.org/abs/1904.05181" target="_blank">
+Black-box Adversarial Attacks on Video Recognition Models</a><br/>
+Linxi Jiang<sup>*</sup>, **Xingjun Ma**<sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang<br/>
+ACM International Conference on Multimedia (**MM**), 2019.
 
 <!-- ### Research Interests:
 * Machine Learning
