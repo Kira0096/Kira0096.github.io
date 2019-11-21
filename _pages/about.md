@@ -28,7 +28,7 @@ I am actively looking for 2020 summer research intern positions!
 
 ### Publications:
 
-<a href="https://www.docdroid.net/IuBlUxU/aaai-final.pdf" target="_blank">
+<a href="https://www.docdroid.net/ygYUJHv/aaai-fengy7442.pdf" target="_blank">
 Adversarial Attack on Deep Product Quantization Network for Image Retrieval </a><br/>
 **Yan Feng**<sup>*</sup>, Bin Chen<sup>*</sup>, Tao Dai, Shu-Tao Xia<br/>
 AAAI Conference on Artificial Intelligence (**AAAI**), 2020.
