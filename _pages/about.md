@@ -31,7 +31,7 @@ I am actively looking for 2020 summer research intern positions!
 <a href="https://www.docdroid.net/ygYUJHv/aaai-fengy7442.pdf" target="_blank">
 Adversarial Attack on Deep Product Quantization Network for Image Retrieval </a><br/>
 **Yan Feng**<sup>*</sup>, Bin Chen<sup>*</sup>, Tao Dai, Shu-Tao Xia<br/>
-AAAI Conference on Artificial Intelligence (**AAAI**), 2020.
+Association for the Advancement of Artificial Intelligence (**AAAI**), 2020.
 
 <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Bai_Hilbert-Based_Generative_Defense_for_Adversarial_Examples_ICCV_2019_paper.pdf" target="_blank">
 Hilbert-Based Generative Defense for Adversarial Examples</a><br/>
