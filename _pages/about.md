@@ -10,7 +10,6 @@ redirect_from:
 
 I am a second-year Master student in the Department of Computer Science and Technology, Tsinghua University, graduating in 2021. My supervisor is Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=koAXTXgAAAAJ" target="_blank">Shu-Tao Xia</a>. My research interest generally includes Computer Vision and Adversarial Machine Learning. I received the B.S. in Computer Science from Beihang University in 2018, advised by Professor <a href="http://irip.buaa.edu.cn/dihuang/" target="_blank">Di Huang</a>. I also worked with <a href="https://wuwei-ai.org/" target="_blank">Wei Wu</a> at <a href="https://www.sensetime.com/en/" target="_blank">SenseTime</a> in 2017.
 
-I am actively looking for 2020 summer research intern positions!
 
 
 
@@ -22,7 +21,7 @@ I am actively looking for 2020 summer research intern positions!
 
 ### Publications:
 
-<a href="https://www.docdroid.net/ygYUJHv/aaai-fengy7442.pdf" target="_blank">
+<a href="https://arxiv.org/pdf/2002.11374.pdf" target="_blank">
 Adversarial Attack on Deep Product Quantization Network for Image Retrieval </a><br/>
 **Yan Feng**<sup>*</sup>, Bin Chen<sup>*</sup>, Tao Dai, Shu-Tao Xia<br/>
 Association for the Advancement of Artificial Intelligence (**AAAI**), 2020.
