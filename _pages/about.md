@@ -14,9 +14,15 @@ I am a second-year Master student in the Department of Computer Science and Tech
 
 
 ### News:
-  * 11/2019: One paper is accepted at AAAI 2020.
+  * 11/2019: One paper is accepted by AAAI 2020.
   * 10/2019: Research Intern at Tencent AI lab, working with <a href="https://sites.google.com/site/baoyuanwu2015/home" target="_blank">Baoyuan Wu</a>.
-  * 08/2019: One paper is accepted at ICCV 2019.
+  * 08/2019: One paper is accepted by ICCV 2019.
+
+### Preprints:
+
+<a href="https://arxiv.org/pdf/2002.09843.pdf" target="_blank">
+Practical and Bilateral Privacy-preserving Federated Learning </a><br/>
+**Yan Feng**<sup>*</sup>, Xue Yang<sup>*</sup>, Weijun Fang, Shu-Tao Xia, Xiaohu Tang<br/>
 
 
 ### Publications:
