@@ -15,7 +15,6 @@ I am a second-year Master student in the Department of Computer Science and Tech
 
 ### News:
   * 11/2019: One paper is accepted by AAAI 2020.
-  * 10/2019: Research Intern at Tencent AI lab, under the supervision of <a href="https://sites.google.com/site/baoyuanwu2015/home" target="_blank">Baoyuan Wu</a>.
   * 08/2019: One paper is accepted by ICCV 2019.
 
 ### Preprints:
