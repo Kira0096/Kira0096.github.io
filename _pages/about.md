@@ -19,6 +19,11 @@ I am a second-year Master student in the Department of Computer Science and Tech
 
 ### Preprints:
 
+<a href="https://arxiv.org/pdf/2006.08538.pdf" target="_blank">
+Efficient Black-Box Adversarial Attack Guided by theDistribution of Adversarial Perturbations </a><br/>
+**Yan Feng**, Baoyuan Wu, Yanbo Fan, Zhifeng Li, Shu-Tao Xia<br/>
+
+
 <a href="https://arxiv.org/pdf/2002.09843.pdf" target="_blank">
 Practical and Bilateral Privacy-preserving Federated Learning </a><br/>
 **Yan Feng**<sup>*</sup>, Xue Yang<sup>*</sup>, Weijun Fang, Shu-Tao Xia, Xiaohu Tang<br/>
