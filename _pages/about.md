@@ -20,7 +20,7 @@ I am a second-year Master student in the Department of Computer Science and Tech
 ### Preprints:
 
 <a href="https://arxiv.org/pdf/2006.08538.pdf" target="_blank">
-Efficient Black-Box Adversarial Attack Guided by theDistribution of Adversarial Perturbations </a><br/>
+Efficient Black-Box Adversarial Attack Guided by the Distribution of Adversarial Perturbations </a><br/>
 **Yan Feng**, Baoyuan Wu, Yanbo Fan, Zhifeng Li, Shu-Tao Xia<br/>
 
 
